@@ -1,2 +1,2 @@
 # ir_ip
-iran range ip 
+small list of iran range ip 
